@@ -1,0 +1,15 @@
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* Ensures content is centered vertically */
+}
+
+.card-title,
+.card-text {
+  margin-bottom: 0; /* Removes default bottom margin */
+}
+.body{
+  background-color:rgb(255, 255, 234) ;
+}
